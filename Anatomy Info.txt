@@ -44,3 +44,10 @@ These include the three cuneiform bones, the cuboid bone, and the navicular bone
 1)  Calcaneus bone the largest of the tarsus of the foot which constitutes the heel. At the front, the heel bone features many curves to accommodate the talus and the many different tarsal bones, which lead to the metatarsals and phalanges that make up the front of the foot and toes.
 2) The Tibia supports most of your weight and is an important part of both the knee joint and ankle joint. The tibia is the larger bone in your lower leg.
 3) The metatarsal bones, or metatarsus are a group of five long bones in the foot, located between the tarsal bones of the hind- and mid-foot and the phalanges of the toes.
+
+
+HELP MENU
+Point the object to the target image.
+Move around your tablet to get a different view of the object.
+On the bottom left, there are 4 information buttons. The "General" selection will give an overview of the anatomy under view. Selecting the remaining options will highlight and provide further information.
+To return to the main menu, select the back button at the top left of the screen.
