@@ -1,4 +1,30 @@
 Heart:
-The heart is a vital organ the size of a human fist which is reponsible for transporting blood and water around the body to transport oxygen, nutrients, and waste around the body.
+The heart is a vital organ, the size of a human fist, which is reponsible for transporting blood and nutrients around the body. Some specific functions includes transporting oxygen, water, lymphatics, hormones and waste byproducts around the body.
 
-1) 
+1) The Pulmonary Trunk is a major vessel of the human heart that originates from the right ventricle. It branches into the right and left pulmonary arteries, which lead to the lungs.
+2) The Left Ventricle is Located in a posterior and lateral location relative to the right ventricle. With right ventricle, it forms apex of heart.
+3) The Aortic Arch is the portion of the main artery that bends between the ascending and descending aorta. The aorta distributes blood from the left ventricle of the heart to the rest of the body.
+
+Brain:
+The human brain is an organ of the human central nervous system.
+
+1) The frontal lobes are involved in motor function, problem solving, spontaneity, memory, language, initiation, judgement, impulse control, and social and sexual behavior.
+2) A Cistern is any opening in the subarachnoid space of the brain created by a separation of the arachnoid and pia mater. These spaces are filled with cerebrospinal fluid.
+3) The cerebellum receives information from the sensory systems, the spinal cord, and other parts of the brain and then regulates motor movements, affecting posture, balance, coordination, and speech.
+
+Abdomen:
+The muscles of the abdomen protect vital organs underneath and provide structure for the spine. These muscles help the body bend at the waist.
+
+1) The Rectus Abdominis muscle is located in the front of the body, beginning at the pubic bone and ending at the sternum.
+2) The internal abdominal oblique muscle supports the abdominal wall, assists in forced respiration, aids in raising pressure in the abdominal area, and rotates and turns the trunk.
+
+Spinal Bones:
+
+1) The cervical spine consists of seven vertebrae, which are the smallest and uppermost in location and support the skull, move the spine, and protect the spinal cord, a bundle of nerves connected to the brain.
+2) The thoracic spinal vertebrae consist of 12 total vertebrae and supports the top of the human body.
+3) The lumbar vertebrae are the largest movable bones of the backbone. Their larger size and bone strength is necessary because these vertebrae support more weight than the upper two segments of the backbone.
+
+Spinal Cord:
+
+1) Cervical spine nerve roots. In the cervical spine, the nerve root is named for the lower segment that it runs between C6 nerve root at C5-C6 segment.
+2) Lumbar spine nerve roots. In the lumbar spine, the nerve is named for the upper segment that it runs between L4 nerve root at L4-L5 segment.
